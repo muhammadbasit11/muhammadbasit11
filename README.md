@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Basit!
 
-<!--
-**muhammadbasit11/muhammadbasit11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Scientist** | 🐍 Python Developer | 💡 Lifelong Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm currently learning **Data Science** and building projects to strengthen my Python foundation — one project at a time 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I'm Learning
+- Python (core + automation)
+- Data Analysis with **Pandas & NumPy**
+- Data Visualization using **Matplotlib & Seaborn**
+- Machine Learning fundamentals
+- Git & GitHub (version control)
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tools |
+|----------|--------------|-------|
+| 🧮 [Tip Calculator](https://github.com/muhammadbasit11/tip-calculator) | Calculates each person's bill including tip | Python, Input handling, f-strings |
+| 📊 More Projects Coming Soon... | Working on my next Python & Data Analysis projects | Pandas, Matplotlib |
+
+---
+
+## 🧰 Tech Stack
+💻 **Languages:** Python, SQL (learning)  
+📊 **Libraries:** Pandas, NumPy, Matplotlib  
+⚙️ **Tools:** Jupyter Notebook, Git, GitHub, VS Code  
+📈 **Goals:** Build 100 Data Science projects 🧠  
+
+---
+
+## 🌱 Current Goal
+> I'm on a mission to complete the **100 Days of Python Challenge** and build a strong portfolio of real-world Data Science projects.
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-basit-12507037b/)  
+- 📧 Email: muhammadbasit101010@gmail.com  
+- 🐙 [GitHub Profile](https://github.com/muhammadbasit11)
+
+---
+
+⭐ **Fun Fact:** I love solving real problems with code and turning data into insights!
