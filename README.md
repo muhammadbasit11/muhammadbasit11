@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm currently learning **Data Science** and building proje
 
 | Project | Description | Tools |
 |----------|--------------|-------|
-| 🧮 [Tip Calculator](https://github.com/muhammadbasit11/tip-calculator) | Calculates each person's bill including tip | Python, Input handling, f-strings |
+| social-network-analysis-pythonhttps://github.com/muhammadbasit11/social-network-analysis-python | Simulates social network features using pure Python, including data cleaning, mutual friend recommendations (People You May Know), and interest-based page suggestions (Pages You Might Like). | Python, Input handling, f-strings |
 | 📊 More Projects Coming Soon... | Working on my next Python & Data Analysis projects | Pandas, Matplotlib |
 
 ---
